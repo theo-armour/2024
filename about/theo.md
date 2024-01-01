@@ -1,7 +1,7 @@
 
-# About
+# About Theo Armour
 
-<p><img src=https://theo-armour.github.io/data/theo-at-68.jpg width=100 ></p>
+<p><img src=https://theo-armour.github.io/2024/about/2024-01-01-theo.jpg width=100 ></p>
 
 ## Overview
 

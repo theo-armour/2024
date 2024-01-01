@@ -11,7 +11,7 @@ _"Templates Read Me" in a resizable window_
 ## Concept
 
 
-"The cobbler's children have no shoes" is a saying that refers to the phenomenon whereby professionals neglect their own work to attend to others. The saying is recorded in English from 1546 in John Heywood's *A dialogue conteinyng the nomber in effect of all the prouerbes in the Englishe tongue*:
+"The cobbler's children have no shoes" is a saying that refers to the phenomenon whereby professionals neglect their own work to attend to others. The saying is recorded in English from 1546 in John Heywood's *A dialogue conteinyng the nomber in effect of all the prouerbes in the Englishe tongue*.
 
 
 <details open >
@@ -34,6 +34,9 @@ _"Templates Read Me" in a resizable window_
 
 ## Links of Interest
 
+Maybe have a look here:
+
+https://github.com/theo-armour
 
 ## Change Log
 
