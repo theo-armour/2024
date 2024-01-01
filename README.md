@@ -1,4 +1,4 @@
-# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armor/2024/ "Source code on GitHub" ) [PushMe PullYou 2024]( https://theo-armor.github.io/2024/ "Home page" ) / [Templates Read Me]( https://github.com/theo-armor/assets/tree/main/templates-folder/ "2024-01-01" )
+# [![](https://pushme-pullyou.github.io/assets/svg/octicon.svg )](https://github.com/theo-armour/2024/ "Source code on GitHub" ) [Theo Armour 2024]( https://theo-armor.github.io/2024/ "Home page" )
 
 <!-- @@@
 <div class=iframe-resize ><iframe src=https://theo-armor.github.io/2024/templates-folder/ height=100% width=100% ></iframe></div>
@@ -11,7 +11,8 @@ _"Templates Read Me" in a resizable window_
 ## Concept
 
 
-## Text you can include in read me files
+"The cobbler's children have no shoes" is a saying that refers to the phenomenon whereby professionals neglect their own work to attend to others. The saying is recorded in English from 1546 in John Heywood's *A dialogue conteinyng the nomber in effect of all the prouerbes in the Englishe tongue*:
+
 
 <details open >
 
