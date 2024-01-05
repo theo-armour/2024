@@ -38,8 +38,7 @@ _"Templates Read Me" in a resizable window_
 
 Maybe have a look here:
 
-*
-https://github.com/theo-armour
+* https://github.com/theo-armour
 
 ## Change Log
 
