@@ -22,8 +22,10 @@
 
 
 	images = [
-
-		"gogogh-02.png"
+		"gogogh-02.png",
+		"helleu-04.png",
+		"helleu-03.png",
+		"seurat-01.png"
 
 		/*
 		'cpucl.jpg',
@@ -74,7 +76,7 @@
 
 		for ( var i = 0; i < images.length; i++ ) {
 
-			text += '<p><button onclick=selectImage(' + i + '); >' + images[ i ] + '</button></p>';
+			text += '<button onclick=selectImage(' + i + '); >' + images[ i ] + '</button> ';
 
 		}
 
@@ -130,7 +132,7 @@
 		loader.load(
 
 // resource URL
-			"../" + images[ index ],
+			"../images/" + images[ index ],
 
 // Function when resource is loaded
 			function ( texture ) {
