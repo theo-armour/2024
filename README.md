@@ -16,18 +16,6 @@ _"Templates Read Me" in a resizable window_
 "The cobbler's children have no shoes" is a saying that refers to the phenomenon whereby professionals neglect their own work to attend to others. The saying is recorded in English from 1546 in John Heywood's *A dialogue conteinyng the nomber in effect of all the prouerbes in the Englishe tongue*.
 
 
-<details open >
-
-<summary> Things you can do using this script</summary>
-
-* Click the three bars( 'hamburger menu icon' ) to slide the menu in and out
-* Click the GitHub Octocat icon to view or edit the source code on GitHub
-* Click on title to reload te page
-* Press Control-U/Command-Option-U to view the source code
-* Press Control-Shift-J/Command-Option-J to see if the JavaScript console reports any errors
-
-</details>
-
 ## To Do / Wish List
 
 
@@ -42,6 +30,11 @@ Maybe have a look here:
 
 ## Change Log
 
+
+### 2024-06-19
+
+* Add new QR code image
+* Fix broken links
 
 ### 2024-01-01
 
