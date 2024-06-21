@@ -7,8 +7,6 @@
 * I get a kick out of you
 * Putting on the ritz
 * Quando, Quando
-
-
 * Ciao Ciao Bambina
 * Volare
 * [Itsy-witsy teeny-weeny yellow polka-dot bikini]( https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polkadot_Bikini )
