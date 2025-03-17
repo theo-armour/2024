@@ -1,4 +1,4 @@
-# Changing the Worlds
+# Changing the World
 
 I have changed the world three times.
 
@@ -6,9 +6,9 @@ Not everyone can say that. So let me justify thi statement.
 
 ## First Change
 
-In 1980 Mainland China was still running trains on steam and could barely take care of itself. By 1990 China was beginning to be the industrial powerhouse of the world.
+My first trip to China was in 1978, mainland China was still running trains with steam engines and could barely take care of itself. By 1990 China was beginning to be the industrial powerhouse of the world.
 
-In 1980 all writing, calculating and drawing in Chine was done on paper. By 1990 the China was the world's largest producer of computers.
+In 1980 all writing, calculating and drawing in China was done on paper. By 1990 the China was the world's largest producer of computers.
 
 The driver was computer software. Most of the software was copied illegally. The most copied software programs were Lotus 123, WordStar, AutoCAD and dBase.
 
